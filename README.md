@@ -1,16 +1,14 @@
-<img align="center" src="https://github.com/johnhoang-star/johnhoang-star/blob/main/images/top-banner.png" />
-
-<h1 align="center">Hi👋, Introducing John Hoang</h1>
-<p>An aspiring developer who loves to take on new projects that challenge his analytical and technological capacities.</p>
+<h1 align="center">Hi👋, Introducing Lan Hoang</h1>
+<p>A blockchain developer passionate about building decentralized applications and smart contracts.</p>
 <img src="https://komarev.com/ghpvc/?username=johnhoang-star&label=Profile%20views&color=0e75b6&style=flat" alt="johnhoang-star" />
 
 <img align="right" height="auto" width="40%" src="https://github.com/johnhoang-star/johnhoang-star/blob/main/images/coding.gif" />
 
-- 💻 Full Stack Web Developer
+- 💻 Blockchain Developer (Solidity, Rust, Web3.js, Ethers.js)
 
-- 🏫 Currently studying Software Engineering
+- 🏫 Currently enhancing skills in blockchain architecture and DeFi protocols
 
-- ❓ Ask me about anything related to the MERN stack and related technologies
+- ❓ Ask me about anything related to blockchain, smart contracts, and decentralized applications (dApps)
 
 - 🛠 All of my projects are available at [GitHub](https://github.com/johnhoang-star/)
 
@@ -18,19 +16,16 @@
 
 - 📄 Know more about me [View Portfolio](https://www.johnhoang.xyz/)
 
-- ⚡ Fun fact: I use tabs over spaces
-
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnhoang-star&layout=compact&text_color=daf7dc&bg_color=151515" alt="johnhoang-star" />
+- ⚡ Fun fact: I'm deeply into Web3 and smart contract security
 
 <h3>🛠Tech Stack</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS
-- 👨‍💻 &nbsp; React | Next.js | Redux | Firebase
-- 🔧 &nbsp; Node.js | Express.js | PHP | GraphQL
-- ⌨️ &nbsp; Python | Java | C++ | C
-- 🛢 &nbsp; MySQL | MongoDB
-- 💻 &nbsp; Visual Studio Code | Git | XAMPP
-- ✏️ &nbsp; Adobe Illustrator | Adobe Photoshop
+- 🌐 &nbsp; Solidity | Rust | TypeScript | JavaScript
+- 👨‍💻 &nbsp; Web3.js | Ethers.js | Hardhat | Truffle | Next.js
+- 🔧 &nbsp; Node.js | Express.js | IPFS | GraphQL
+- 🛢 &nbsp; Ethereum | Polygon | Binance Smart Chain | Solana
+- 🔒 &nbsp; Smart Contract Security & Auditing | DeFi Protocols
+- 💻 &nbsp; Visual Studio Code | Git | Hardhat | Remix
 
 <h3>Connect with me:</h3>
 <p>
