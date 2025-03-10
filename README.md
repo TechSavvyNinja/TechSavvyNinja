@@ -32,4 +32,4 @@
 </p>
 
 <img align="right" width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=TechSavvyNinja&theme=default" alt="TechSavvyNinja's GitHub streak stats" />
-<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=TechSavvyNinja&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" />
+<img width="48%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=TechSavvyNinja&theme=dark" alt="TechSavvyNinja's GitHub stats" />
