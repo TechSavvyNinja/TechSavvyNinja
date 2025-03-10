@@ -31,6 +31,8 @@
   <a href="https://wa.me/19145014954" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="TechSavvyNinja" height="30" width="40" /></a>
 </p>
 
-<img align="right" width="49%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=TechSavvyNinja&theme=dark" alt="John Hoang's GitHub streak stats" />
-<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=johnhoang-star&show_icons=true&hide_border=true" alt="John Hoang's GitHub stats" />
+<img align="right" width="49%" height="auto" src="http://github-readme-streak-stats.herokuapp.com?user=TechSavvyNinja&theme=dark" alt="TechSavvyNinja's GitHub streak stats" />
+<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=johnhoang-star&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
