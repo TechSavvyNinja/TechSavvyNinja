@@ -1,4 +1,5 @@
-<h1 align="center">Hi👋, Introducing Lan Hoang</h1>
+<h1 align="center">Senior Full-Stack Software Engineer | Expert in Scalable High-Performance Applications | Blockchain | Solidity | Rust | AWS | React | Python | Node.js ⌨️🚀</h1>
+
 <p>A blockchain developer passionate about building decentralized applications and smart contracts.</p>
 <img src="https://komarev.com/ghpvc/?username=johnhoang-star&label=Profile%20views&color=0e75b6&style=flat" alt="johnhoang-star" />
 
