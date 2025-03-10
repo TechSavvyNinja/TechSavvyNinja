@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/johnhoang-star/johnhoang-star/blob/main/images/top-banner.png" />
+
 <h1 align="center">Senior Full-Stack Software Engineer | Expert in Scalable High-Performance Applications | Blockchain | Solidity | Rust | AWS | React | Python | Node.js ⌨️🚀</h1>
 
 <p>A blockchain developer passionate about building decentralized applications and smart contracts.</p>
