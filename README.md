@@ -31,6 +31,6 @@
   <a href="https://wa.me/19145014954" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="TechSavvyNinja" height="30" width="40" /></a>
 </p>
 
-<img align="right" width="49%" height="auto" src="https://streak-stats.demolab.com?user=TechSavvyNinja&theme=dark" alt="TechSavvyNinja's GitHub streak stats" />
-<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=johnhoang-star&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" />
+<img align="right" width="49%" height="auto" src="https://streak-stats.demolab.com?user=TechSavvyNinja&theme=transparent" alt="TechSavvyNinja's GitHub streak stats" />
+<img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=TechSavvyNinja&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" />
 
