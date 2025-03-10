@@ -32,4 +32,4 @@
 </p>
 
 <img align="right" width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=TechSavvyNinja&theme=default" alt="TechSavvyNinja's GitHub streak stats" />
-<img width="48%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=TechSavvyNinja&theme=dark" alt="TechSavvyNinja's GitHub stats" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TechSavvyNinja&theme=dark)](https://git.io/streak-stats)
