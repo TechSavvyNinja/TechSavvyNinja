@@ -34,11 +34,9 @@
   </a>  
 </p>  
 
-<p align="right">
-  <img width="49%" height="auto" src="https://streak-stats.demolab.com?user=TechSavvyNinja&theme=transparent" alt="TechSavvyNinja's GitHub streak stats" />
-</p>
-
-<p align="left">
-  <img width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=TechSavvyNinja&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" />
-</p>
-
+<table>
+  <tr>
+    <td><img src="https://streak-stats.demolab.com?user=TechSavvyNinja&theme=transparent" alt="TechSavvyNinja's GitHub streak stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TechSavvyNinja&show_icons=true&hide_border=true" alt="TechSavvyNinja's GitHub stats" /></td>
+  </tr>
+</table>
