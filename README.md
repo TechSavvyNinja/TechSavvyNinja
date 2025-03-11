@@ -27,7 +27,7 @@
 <h3>Connect with me:</h3>
 <p>
   <a href="https://t.me/GalaxyOwner_Crypto" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="TechSavvyNinja" height="30" width="40" /></a>
-  <a href="https://wa.me/19145014954" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="TechSavvyNinja" height="30" width="40" /></a>
+  <a href="mailto:contact@higrowth.org" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Gmail_icon_(2020).svg" alt="TechSavvyNinja" height="30" width="40" /></a>
 </p>
 
 <img align="right" width="49%" height="auto" src="https://streak-stats.demolab.com?user=TechSavvyNinja&theme=transparent" alt="TechSavvyNinja's GitHub streak stats" />
